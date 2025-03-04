@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zKm6HPafH4Q=",
+  "success": true,
+  "projectFilePath": "/Users/orhansahin/Documents/GitHub/Zuul/Zuul.csproj",
+  "expectedPackageFiles": [
+    "/Users/orhansahin/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/orhansahin/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/orhansahin/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.13/microsoft.netcore.app.host.osx-arm64.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
