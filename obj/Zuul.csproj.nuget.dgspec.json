@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/orhansahin/Downloads/Zuul/Zuul.csproj": {}
+    "/Users/orhansahin/Documents/GitHub/Zuul/Zuul.csproj": {}
   },
   "projects": {
-    "/Users/orhansahin/Downloads/Zuul/Zuul.csproj": {
+    "/Users/orhansahin/Documents/GitHub/Zuul/Zuul.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/orhansahin/Downloads/Zuul/Zuul.csproj",
+        "projectUniqueName": "/Users/orhansahin/Documents/GitHub/Zuul/Zuul.csproj",
         "projectName": "Zuul",
-        "projectPath": "/Users/orhansahin/Downloads/Zuul/Zuul.csproj",
+        "projectPath": "/Users/orhansahin/Documents/GitHub/Zuul/Zuul.csproj",
         "packagesPath": "/Users/orhansahin/.nuget/packages/",
-        "outputPath": "/Users/orhansahin/Downloads/Zuul/obj/",
+        "outputPath": "/Users/orhansahin/Documents/GitHub/Zuul/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/orhansahin/.nuget/NuGet/NuGet.Config"
