@@ -1,0 +1,14 @@
+/Users/orhansahin/Downloads/Zuul/bin/Debug/net8.0/Zuul
+/Users/orhansahin/Downloads/Zuul/bin/Debug/net8.0/Zuul.deps.json
+/Users/orhansahin/Downloads/Zuul/bin/Debug/net8.0/Zuul.runtimeconfig.json
+/Users/orhansahin/Downloads/Zuul/bin/Debug/net8.0/Zuul.dll
+/Users/orhansahin/Downloads/Zuul/bin/Debug/net8.0/Zuul.pdb
+/Users/orhansahin/Downloads/Zuul/obj/Debug/net8.0/Zuul.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orhansahin/Downloads/Zuul/obj/Debug/net8.0/Zuul.AssemblyInfoInputs.cache
+/Users/orhansahin/Downloads/Zuul/obj/Debug/net8.0/Zuul.AssemblyInfo.cs
+/Users/orhansahin/Downloads/Zuul/obj/Debug/net8.0/Zuul.csproj.CoreCompileInputs.cache
+/Users/orhansahin/Downloads/Zuul/obj/Debug/net8.0/Zuul.dll
+/Users/orhansahin/Downloads/Zuul/obj/Debug/net8.0/refint/Zuul.dll
+/Users/orhansahin/Downloads/Zuul/obj/Debug/net8.0/Zuul.pdb
+/Users/orhansahin/Downloads/Zuul/obj/Debug/net8.0/Zuul.genruntimeconfig.cache
+/Users/orhansahin/Downloads/Zuul/obj/Debug/net8.0/ref/Zuul.dll
